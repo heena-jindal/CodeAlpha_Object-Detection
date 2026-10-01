@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# YOLO Model Files
+models/*.weights
+models/*.cfg
+models/coco.names
+
+# Output / Generated Files
+output/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
